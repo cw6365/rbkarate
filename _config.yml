@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Grimsby Karate Club. Training 4 days per week with a Sensei who has produced national champions 29yrs experience.
+  Grimsby Karate Club. Training 4 days per week with a Sensei who has produced national champions and has over 29yrs experience.
 
 hero_img: posts/dojo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
