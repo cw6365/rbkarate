@@ -1,7 +1,6 @@
 *.gem
 .bundle
 .sass-cache
-_site
 _img/posts/*.jpg
 _img/posts/*.png
 Gemfile.lock
