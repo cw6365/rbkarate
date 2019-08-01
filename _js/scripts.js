@@ -15,6 +15,7 @@ $( document ).ready( function() {
 $(document).ready(function() {
 
     $('#calendar').fullCalendar({
+      header: { center: 'month,agendaWeek,list' }
     });
 
 });
