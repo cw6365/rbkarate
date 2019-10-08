@@ -10,7 +10,7 @@ $( document ).ready( function() {
     formCheck();
 
     $('#calendar').fullCalendar({
-      header: { center: 'month,agendaWeek,list' },
+      header: { center: 'month,agendaWeek,listWeek' },
       googleCalendarApiKey: 'AIzaSyBErx3HPiWWntR6Zavh_20MVCvDNlvo5lQ',
       events: {
         googleCalendarId: 'kr1mcedo60poeb30508n7fpu44@group.calendar.google.com'
