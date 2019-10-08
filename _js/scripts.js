@@ -9,11 +9,6 @@ $( document ).ready( function() {
     ShowHideNav();
     formCheck();
 
-} );
-
-// full calendar
-$(document).ready(function() {
-
     $('#calendar').fullCalendar({
       header: { center: 'month,agendaWeek,list' },
       googleCalendarApiKey: 'AIzaSyBErx3HPiWWntR6Zavh_20MVCvDNlvo5lQ',
@@ -22,7 +17,8 @@ $(document).ready(function() {
       }
     });
 
-});
+} );
+
 
 // Close modal if ESC is pressed
 $( document ).keyup( function( e ) {
