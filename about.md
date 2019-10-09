@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About
+title: Shotokan and Sport Karate
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Our club is based in Grimsby North East Lincolnshire and sessions are in Traditional Shotokan Karate & Sport Karate.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+All sessions are instructed by Sensei Rob Bingham 4th Dan - former English and British champion, England national squad member and former EKF Kata coach - and his team of coaches.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+All instructors are DBS checked, fully insured and first aid trained with child protection qualifications.
+
+Sessions are suitable for all ages and cater for all abilities from 3 years up to adults.
+
+RB Karate academy is affiliated to the EKF ([English Karate Federation](https://www.englishkaratefederation.com)). England's largest and most recognised governing body, recognised by the WKF and IOC.

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Family fun
-featured-img: halloween
-summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
-mathjax: true
+title: Experienced Coaches
+featured-img: coach
 ---
 
+All sessions are instructed by Sensei Rob Bingham 4th Dan and his team of coaches. All instructors are DBS checked, fully insured and first aid trained with child protection qualifications.
