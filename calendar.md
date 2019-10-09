@@ -4,7 +4,15 @@ title: Squad Calendar
 permalink: /calendar/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+* **Tuesday 5-6pm:** All Abilities (Grimsby)
+* **Tuesday 6-7pm:** Karate Fitness (Grimsby)
+* **Wednesday 5-6pm:** Little Warriors (3-5 year old) (Grimsby)
+* **Wednesday 6-7pm:** All Abilities (Grimsby)
+* **Wednesday 7-8pm:** Advanced Kata (Grimsby)
+* **Thursday 5:30-6:30pm:** All Abilities (Immingham)
+* **Sunday 12-2pm:** All Abilities (Grimsby)
 
-    
+*Unless otherwise stated. Please check the calendar below for gradings, competitions and events.*
+
+
 <div id='calendar'></div>

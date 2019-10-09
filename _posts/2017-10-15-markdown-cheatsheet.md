@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shotokan Karate
+title: Shotokan and Sport Karate
 featured-img: squad
 ---
 

@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Grimsby and Immingham Karate Club
+title: RB Karate Academy
 ---
