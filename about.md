@@ -20,7 +20,7 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 <tbody>
 <tr>
 <td>*Still*</td>
-<td>
+<td valign="top">
 <h3>Sensei Rob Bingham 4th Dan</h3>
 <ul>
 <li>Former English and British champion</li>
@@ -33,8 +33,8 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 </td>
 </tr>
 <tr>
-<td>*Still*</td>
-<td>
+<td><img src="http://www.rbkarate.co.uk/assets/img/posts/ailsa.jpg" /></td>
+<td valign="top">
 <h3>Sensei Ailsa Brasier 2nd Dan</h3>
 <ul>
 <li>Little Warriors coach</li>
@@ -43,7 +43,7 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 </tr>
 <tr>
 <td><img src="http://www.rbkarate.co.uk/assets/img/posts/james.jpg" /></td>
-<td>
+<td valign="top">
 <h3>Sensei James Lee 2nd Dan</h3>
 <ul>
 <li></li>
@@ -52,7 +52,7 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 </tr>
 <tr>
 <td>*Still*</td>
-<td>
+<td valign="top">
 <h3>Sensei Ben Cass 2nd Dan</h3>
 <ul>
 <li>Junior Instructor</li>
