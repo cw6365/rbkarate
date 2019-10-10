@@ -38,6 +38,9 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 <h3>Sensei Ailsa Brasier 2nd Dan</h3>
 <ul>
 <li>Little Warriors coach</li>
+<li>BA Hons in Sports Coaching</li>
+<li>First aid trained</li>
+<li>Over 10+ years of experience</li>
 </ul>
 </td>
 </tr>
