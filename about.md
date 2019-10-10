@@ -51,7 +51,7 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 </td>
 </tr>
 <tr>
-<td>*Still*</td>
+<td><img src="http://www.rbkarate.co.uk/assets/img/posts/ben.jpg" /></td>
 <td valign="top">
 <h3>Sensei Ben Cass 2nd Dan</h3>
 <ul>
