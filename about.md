@@ -19,7 +19,7 @@ RB Karate academy is affiliated to the EKF ([English Karate Federation](https://
 <table>
 <tbody>
 <tr>
-<td>*Still*</td>
+<td><img src="http://www.rbkarate.co.uk/assets/img/posts/rob.jpg" /></td>
 <td valign="top">
 <h3>Sensei Rob Bingham 4th Dan</h3>
 <ul>
