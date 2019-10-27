@@ -11,6 +11,7 @@ permalink: /calendar/
 * **Wednesday 7-8pm:** Advanced Kata (Grimsby)
 * **Thursday 5:30-6:30pm:** All Abilities (Immingham)
 * **Sunday 12-2pm:** All Abilities (Grimsby)
+* <span class="fc-event-dot" style="background-color: red"></span> **Events and gradings**
 
 *Unless otherwise stated. Please check the calendar below for gradings, competitions and events.*
 

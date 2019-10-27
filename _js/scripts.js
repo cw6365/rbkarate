@@ -22,6 +22,10 @@ $( document ).ready( function() {
       eventSources: [
         {
           googleCalendarId: 'kr1mcedo60poeb30508n7fpu44@group.calendar.google.com'
+        },
+        {
+          googleCalendarId: 'i9ecrcd32uk4u9efn4m0k7oqog@group.calendar.google.com',
+          className: 'rb_events'
         }
       ]
     });
