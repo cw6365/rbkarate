@@ -4,7 +4,7 @@ title: Shotokan and Sport Karate
 permalink: /about/
 ---
 
-Our club is based in Grimsby North East Lincolnshire and sessions are in Traditional Shotokan Karate & Sport Karate.
+Our club is based in Immingham and Grimsby, North East Lincolnshire and sessions are in Traditional Shotokan Karate & Sport Karate.
 
 All sessions are instructed by Sensei Rob Bingham 4th Dan - former English and British champion, England national squad member and former EKF Kata coach - and his team of coaches.
 

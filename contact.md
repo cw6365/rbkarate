@@ -13,6 +13,14 @@ permalink: /contact/
 Immingham Dojo
 Highfield Avenue
 Immingham
+DN401NQ
+```
+<br />
+
+```
+The Fusion Centre 
+Grimsby 
+DN32 9SW
 ```
 <br />
 
