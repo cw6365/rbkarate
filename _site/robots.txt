@@ -1,1 +1,1 @@
-Sitemap: http://www.rbkarate.co.uk/sitemap.xml
+Sitemap: https://www.rbkarate.co.uk/sitemap.xml

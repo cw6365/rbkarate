@@ -5,7 +5,7 @@ description: > # Meta description of Homepage
   Based in Grimsby, also with classes in Immingham, RB Karate is suitable for all ages and abilities.
   Sessions are in Traditional Shotokan Karate and Sport Karate.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.rbkarate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.rbkarate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
