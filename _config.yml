@@ -2,14 +2,14 @@
 title:  Grimsby and Immingham Karate Academy # your site title
 author: Chris  # You :P
 description: > # Meta description of Homepage
-  Based in Grimsby, also with classes in Immingham, RB Karate is suitable for all ages and abilities.
+  Based in Grimsby, also with classes in Immingham, Lincs Karate is suitable for all ages and abilities.
   Sessions are in Traditional Shotokan Karate and Sport Karate.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.rbkarate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.lincskarate.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Lincs Karate
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
@@ -26,13 +26,13 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  RB Karate Academy is based in Grimsby & Immingham, with lessons in Traditional Shotokan &amp; Sport Karate. Sessions are suitable for all ages and abilities.
+  Lincs Karate Academy is based in Grimsby & Immingham, with lessons in Traditional Shotokan &amp; Sport Karate. Sessions are suitable for all ages and abilities.
 
 hero_img: posts/dojo.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: rdbingham14@gmail.com # email for form submission
 
-facebook_username: R-B-Karate-Academy-282664175889506 # replace with your_twitter_username or comment to remove link from footer
+facebook_username: Lincs-Karate-282664175889506 # replace with your_twitter_username or comment to remove link from footer
 instagram_username: rbkarate # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
