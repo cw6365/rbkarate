@@ -6,42 +6,24 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
-  <loc>http://www.rbkarate.co.uk/</loc>
+  <loc>https://www.lincskarate.co.uk/</loc>
   <lastmod>2019-08-01T14:13:58+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.rbkarate.co.uk/about/</loc>
+  <loc>https://www.lincskarate.co.uk/about/</loc>
   <lastmod>2019-08-01T14:13:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rbkarate.co.uk/calendar/</loc>
+  <loc>https://www.lincskarate.co.uk/calendar/</loc>
   <lastmod>2019-08-01T14:13:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.rbkarate.co.uk/contact/</loc>
+  <loc>https://www.lincskarate.co.uk/contact/</loc>
   <lastmod>2019-08-01T14:13:58+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>http://www.rbkarate.co.uk/getting-started/</loc>
-  <lastmod>2019-08-01T14:13:58+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.rbkarate.co.uk/markdown-cheatsheet/</loc>
-  <lastmod>2019-08-01T14:13:58+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.rbkarate.co.uk/welcome-to-jekyll/</loc>
-  <lastmod>2019-08-01T14:13:58+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-
-
 </urlset>
